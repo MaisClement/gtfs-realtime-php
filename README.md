@@ -13,7 +13,7 @@ the simple examples for [creating](/examples/create_message.php) and [parsing](/
 ### Composer Installation
 In your application project root run
 ```
-composer require gtfs/php-realtime
+composer require lowa/gtfs-realtime-php
 ```
 to install the package and all dependencies. This command will load all packages and update
 your autoloader to use the package.

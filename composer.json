@@ -1,11 +1,11 @@
 {
-  "name": "gtfs/realtime-php",
+  "name": "lowa/gtfs-realtime-php",
   "type": "library",
   "description": "GTFS-Realtime library for PHP",
   "keywords": ["gtfs-realtime"],
   "license": "Unlicense",
   "require": {
-    "google/protobuf": "3.10.0"
+    "google/protobuf": "3.25.0"
   },
   "autoload": {
     "psr-4": {
